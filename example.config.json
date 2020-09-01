@@ -1,0 +1,17 @@
+{
+	"bridge": {
+		"name": "Homebridge",
+		"username": "CC:22:3D:E3:CE:30",
+		"port": 51826,
+		"pin": "123-45-568"
+	},
+
+	"accessories": [
+		{
+			"accessory": "pi_switch",
+			"name": "Raspberry Pi",
+			"os": "linux",
+			"serial": "123-456-789"
+		}
+	]
+}
