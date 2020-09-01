@@ -34,8 +34,8 @@ This is Raspberry Pi Remote plugin for [Homebridge](https://github.com/nfarina/h
 
 
 # Credits
-[clauzewitz](https://github.com/clauzewitz/homebridge-raspberrypi-remote) for main body.
-[bachandi](https://github.com/bachandi/homebridge-raspberrypi-info/tree/fixes)for get_Model() function.
++ [clauzewitz](https://github.com/clauzewitz/homebridge-raspberrypi-remote) for main body.
++ [bachandi](https://github.com/bachandi/homebridge-raspberrypi-info/tree/fixes) for get_Model() function.
 
 # License
 MIT License
